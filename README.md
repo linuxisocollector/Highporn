@@ -3,6 +3,7 @@
 ## Requirements:
 
 Node (v14)
+
 Yarn  (Install with: npm install --global yarn)
 
 Chrome or Chromium with Video Support installed
